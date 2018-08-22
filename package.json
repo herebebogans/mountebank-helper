@@ -22,7 +22,7 @@
     "lodash": "^4.13.1",
     "mountebank": "bbyars/mountebank",
     "node-fetch": "^1.5.3",
-    "tcp-port-used": "^0.1.2"
+    "tcp-port-used": "^1.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
