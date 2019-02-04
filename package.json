@@ -19,7 +19,7 @@
   "author": "Alex Tzinov",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.13.1",
+    "lodash": "^4.17.11",
     "mountebank": "bbyars/mountebank",
     "node-fetch": "^1.5.3",
     "tcp-port-used": "^0.1.2"
